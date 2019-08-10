@@ -1,3 +1,5 @@
+# -*- mode:dockerfile -*-
+
 FROM python:3
 
 ADD testmain.py /
