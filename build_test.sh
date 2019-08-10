@@ -1,1 +1,1 @@
-docker build --tag=dockerselen .
+docker build --tag=dockerselen -f DockerfileTest .
